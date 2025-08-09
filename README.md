@@ -1,5 +1,6 @@
 # Alperen Sarıçayır Acunmedya Bitirme Projesi - Kitap Satış Sistemi
 Projeden Bazı Fotoğraflar (Her Şey Sorunsuz Çalışmaktadır: AdminDashboard'da Kullanıcı-Kitap-Kategori Yönetimi-Raporlar Vb. Tam deneyim için kendiniz deneyiniz. Favori eklemek için giriş yapmalısınız.)
+
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/d09e6f63-a4e2-4bec-b4dc-70a62694830a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e63b9c3-e0f6-44ef-9551-c84be582a1a0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56fabcc7-e9bc-4d40-81a1-460bd85cf536" />
