@@ -1,4 +1,6 @@
-# Alperen Sarıçayır Acunmedya Bitirme Projesi - Kitap Satış Sistemi
+# Alperen Sarıçayır Acunmedya Bitirme Projesi - Kitap Satış Sistemi DİKKAT PROJENİN DÜZGÜN ÇALIŞMASI İÇİN MULTIPLE STARTUP PROJECTS YAPINIZ: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c0d1a4c-0651-4484-9379-38dc19cd0c37" />
+
 Projeden Bazı Fotoğraflar (Her Şey Sorunsuz Çalışmaktadır: AdminDashboard'da Kullanıcı-Kitap-Kategori Yönetimi-Raporlar vb. tam deneyim için kendiniz deneyiniz. Favori eklemek için giriş yapmalısınız.)
 
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/d09e6f63-a4e2-4bec-b4dc-70a62694830a" />
