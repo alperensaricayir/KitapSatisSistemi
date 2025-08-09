@@ -3,6 +3,12 @@ Projeden Bazı Fotoğraflar (Her Şey Sorunsuz Çalışmaktadır: AdminDashboard
 
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/d09e6f63-a4e2-4bec-b4dc-70a62694830a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b7e2f1b-1dd9-4373-a6f8-6baf802d8675" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5499a416-df3b-44e7-9fac-c34cdf7df42c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8541126b-b25d-4249-bef1-17c69348499a" />
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd0a3d72-e53b-4859-bec2-38432fa5f1a7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fda97a4-111f-42a1-b74b-d9e76a86b608" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70189035-15eb-4a5c-9903-f2fbbb8cf505" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb1b0b01-bea2-4fdc-861c-74654eb7ccd1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9f4f36c-2833-4f59-8dd4-fdb279b5f63b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9416070-4280-4300-9322-479a8eb21d5d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0960958-4323-4f55-8f7d-ff26920ab867" />
